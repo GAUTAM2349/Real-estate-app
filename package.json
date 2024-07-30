@@ -1,0 +1,12 @@
+{
+  "name": "real-estate-app",
+  "version": "1.0.0",
+  "description": "providing facility of seamless surfing for property search on internet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

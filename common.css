@@ -1,0 +1,9 @@
+/* 
+100vh = 800px; let 1vh = 10px;
+
+100vw = 1680px; let 1vw = 20px;
+*/
+
+html{
+    scroll-behavior: smooth;
+}

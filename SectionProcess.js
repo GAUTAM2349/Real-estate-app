@@ -7,8 +7,26 @@ export function Card() {
   return (
     <>
     <div className="card">
-      <div className="data">DATA</div>
+
+
+      <div className="data">
+        <span className="s-no">01</span>
+        <div className="about">
+          <div className="secondary-heading">Discover</div>
+          <p className="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo perferendis saepe blanditiis iure ipsum id provident tempore ab, nobis maxime!
+          </p>
+        </div>
+        <p className="plot-size">Plot sizee</p>
+        <a href="#" className="more-info secondary-btn">More info &darr; </a>
+      </div>
+
+
+      <div className="images">
       <div className="image">Image</div>
+      <div className="image">Image</div>
+      </div>
+
+
     </div>
     </>
   )
